@@ -1,5 +1,7 @@
-# Hi there 👋
+# Hello there 👋
 
+I am a computer science student at Mahasarakham University. Currently, I'm a front-end web developer for a senior project.
+🌱 In addition to Web Development, I am interest in Networking, Cyber Security, Internet of Things, AI.
 <!--
 **snxwz/snxwz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
