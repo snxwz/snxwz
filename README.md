@@ -2,7 +2,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ========================================================================================================================================
 
 I'm Adithep Ponglong
-===============================================
+
 I am a computer science student at Mahasarakham University. Currently, I'm a front-end web developer for a senior project.
 
 *   🌍  I'm based in Nonthaburi , Thailand 🇹🇭
